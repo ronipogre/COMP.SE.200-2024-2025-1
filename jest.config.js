@@ -1,4 +1,5 @@
 const config = {
+    verbose: true,
     collectCoverage: true,
     collectCoverageFrom: [
         'src/add.js',
