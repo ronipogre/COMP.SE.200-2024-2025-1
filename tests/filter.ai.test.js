@@ -2,7 +2,7 @@
 // e.g. '../src/filter.js' or '../filter.js'
 import filter from '../src/filter.js'
 
-describe('filter (manual test suite for e-commerce utility)', () => {
+describe('filter (AI-generated test suite)', () => {
   // ---- Basic behaviour ----
 
   test('returns only elements that satisfy the predicate (simple numbers)', () => {
